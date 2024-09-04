@@ -22,7 +22,7 @@ local t = getTranslations(lang)
 
 return {
     LrSdkVersion = 6.0,
-    LrSdkMinimumVersion = 3.0, -- minimum SDK version required by this plugin
+    LrSdkMinimumVersion = 3.0,
     LrToolkitIdentifier = 'com.yourdomain.ExportByCollection',
     LrPluginName = 'Egitos Collection Manager',
     

@@ -24,7 +24,7 @@ local function getTranslations(lang)
 end
 
 local function getCurrentLanguage()
-    return 'pt'  -- Defina o idioma atual aqui
+    return 'pt' 
 end
 
 local lang = getCurrentLanguage()

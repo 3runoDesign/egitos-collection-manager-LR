@@ -24,12 +24,12 @@ return {
     LrSdkVersion = 6.0,
     LrSdkMinimumVersion = 3.0, -- minimum SDK version required by this plugin
     LrToolkitIdentifier = 'com.yourdomain.ExportByCollection',
-    LrPluginName = 'Egitos Plugin',
+    LrPluginName = 'Egitos Collection Manager',
     
     LrPluginInfo = {
         author = 'Bruno Egito',
         version = { major=1, minor=0, revision=0, build=1 },
-        description = 'Egitos Plugins',
+        description = 'O Egitos Collection Manager é um plugin poderoso que facilita a organização e exportação de suas fotos em coleções.',
     },
 
     LrLibraryMenuItems = {
